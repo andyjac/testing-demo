@@ -12,7 +12,7 @@ var specObj = {
 describe('MasterChiefMaker', function() {
 
   beforeEach(function() {
-    subject = MasterChiefMaker(specObj, helmetStub);
+    subject = MasterChiefMaker(specObj);
   });
 
   it("Has the properties from the specObj", function() {
