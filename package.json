@@ -1,0 +1,22 @@
+{
+  "name"    : "testing_demo",
+  "version" : "0.0.1",
+  "main"    : "main.js",
+  "dependencies" : {
+    "request" : "latest",
+    "lodash" : "latest"
+  },
+  "devDependencies" : {
+    "grunt" : "*",
+    "grunt-cli" : "*",
+    "grunt-contrib-watch" : "*",
+    "grunt-shell" : "*",
+    "grunt-mocha-test" : "*",
+    "grunt-mocha-debug" : "*",
+    "chai" : "",
+    "mocha" : "",
+    "should" : "",
+    "sinon-chai" : "",
+    "sinon" : ""
+  }
+}
